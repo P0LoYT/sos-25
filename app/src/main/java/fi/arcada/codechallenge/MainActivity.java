@@ -17,6 +17,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         helloTextView = findViewById(R.id.Hello);
-        helloTextView.setText("Min app funkar");
+        helloTextView.setText("Min app funkar v2.0");
     }
 }
